@@ -13,5 +13,3 @@ str_name = "Python learning"
 print(str_name.center(t_w))
 print(str_name.rjust(t_w))
 print(str_name.ljust(t_w))
-
-
